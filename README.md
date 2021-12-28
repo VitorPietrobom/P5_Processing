@@ -7,7 +7,7 @@ In this project I tried to create something like a power to control water, using
 
 
 ## Fireworks
-In this project, with every tick there is a chance that a firework will be generated, witch will go up to a random height and then explode into a lot of particles. To make the particle system look better, there is gravity and some other forces applied to them
+In this project, with every tick there is a chance that a firework will be generated, which will go up to a random height and then explode into a lot of particles. To make the particle system look better, there is gravity and some other forces applied to them
 
 
 ## Fractal Tree
