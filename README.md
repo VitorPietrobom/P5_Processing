@@ -15,3 +15,5 @@ In this project, with every tick there is a chance that a firework will be gener
 
 ## Fractal Tree
 In this project, a tree is created of a series of branches, and the branch itself is defined recursivly, making the tree continue itself for a period determined by the length of the final branch. I also created a slider from witch the angle between new branches can be defined, creating a nice effect
+
+<img src="https://user-images.githubusercontent.com/53837251/227749380-b28f9aa4-7e7a-41ce-9432-5b1bcbef48af.gif" width="250" height="250"/>
